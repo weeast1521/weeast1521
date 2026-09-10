@@ -1,7 +1,6 @@
 ## 서동혁 | Backend Developer
 
-Spring Boot 기반 백엔드를 만듭니다. 동시성 제어와 실시간 통신에 관심이 많습니다.
-
+### BLOG
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@weeast1521/posts)
 
 ### Tech Stack
@@ -18,14 +17,19 @@ Spring Boot 기반 백엔드를 만듭니다. 동시성 제어와 실시간 통�
 
 | 프로젝트 | 설명 | 역할 | 링크 |
 |---|---|---|---|
-| **투자메이트** | 졸업 프로젝트 — [한 줄 설명] | 백엔드 (Spring) | [Repo](https://github.com/NaughtyComputer/Naughty-BE-Spring) |
-| **NewsIntelligent** | UMC 동아리 프로젝트 — [한 줄 설명] | 백엔드 | [Repo](https://github.com/newsIntelligent) |
-| **이음길** | SSAFY 프로젝트 — 실시간 협업 여행 플래너 | 백엔드 리드 | [Repo](https://github.com/prgmd/ieumgil) |
-| **사과게임** | 2인 실시간 경쟁 게임 (STOMP/WebSocket) | 개인 | [Repo](https://github.com/weeast1521/MyAppleGame) |
+| **투자메이트** | 금융 상품 추천 서비스(졸업 프로젝트) | 백엔드 (Spring) | [Repo](https://github.com/NaughtyComputer/Naughty-BE-Spring) |
+| **NewsIntelligent** | UMC 동아리 프로젝트 | 백엔드 | [Org](https://github.com/newsIntelligent) |
+| **이음길** | 여러 명이 실시간으로 함께 짜는 여행 일정 플래너 (STOMP 동시 편집, WebRTC 음성채팅) | 백엔드 | [Repo](https://github.com/prgmd/ieumgil) |
+| **사과게임** | 2인 실시간 대전 퍼즐 게임 — Redis Lua로 입장·준비 원자화, 서버 권위 판정으로 치팅 차단 | 개인 | [Repo](https://github.com/weeast1521/MyAppleGame) |
 
 ### Algorithm
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgurdusdn)](https://solved.ac/ehdgurdusdn)
+<table>
+  <tr>
+    <td><a href="https://solved.ac/ehdgurdusdn"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgurdusdn" width="300"/></a></td>
+    <td><a href="https://github.com/soomoongcup/soomoongcup-2024-2"><img src="https://github.com/user-attachments/assets/3a73bfdb-bb46-486a-830c-11202e62c770" width="140"/></a></td>
+  </tr>
+</table>
 
 - **200일 연속 문제 풀이** (solved.ac 스트릭)
-- [알고리즘 스터디](https://github.com/StudyAlgorithmTeam) 운영 · [수뭉컵](https://github.com/soomoongcup/soomoongcup-2024-2) 코딩테스트 대회 출제진
+- **[수뭉컵 2024-2](https://github.com/soomoongcup/soomoongcup-2024-2)** 출제진 — 교내 알고리즘 코딩테스트 대회
