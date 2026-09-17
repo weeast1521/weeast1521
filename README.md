@@ -53,9 +53,9 @@
 
 | 기간 | 내용 |
 |---|---|
-| `2026.00 - 진행 중` | 2인 실시간 대전 퍼즐 게임, **'사과게임'** [Github](https://github.com/weeast1521/MyAppleGame) `개인`<br>· 동시 입장·준비 경쟁 조건을 테스트로 재현 → **Redis Lua 스크립트로 원자화**<br>· 랭킹 조회 **1,829ms → 80ms**, k6 200VU 로그인 **840 → 1,265 req/s**<br>· GitHub Actions → GHCR → **blue-green 무중단 배포** |
-| `2026.07 - 2026.08` | 실시간 협업 여행 일정 플래너, **'이음길'** [Github](https://github.com/prgmd/ieumgil) `SSAFY · BE`<br>· **필드 단위 LWW + fractional index**로 동시 편집 충돌 · 블록 순서 처리<br>· STOMP operation 브로드캐스트, 카카오 OAuth2 + JWT 인증 |
-| `2025.03 - 2025.08` | UMC 8기 팀 프로젝트, **'NewsIntelligent'** [Github](https://github.com/newsIntelligent/Backend) `BE` |
+| `2026.00 - 진행 중` | 2인 실시간 대전 퍼즐 게임, **'사과게임'** [Github](https://github.com/weeast1521/MyAppleGame) `개인`|
+| `2026.07 - 2026.08` | 실시간 협업 여행 일정 플래너, **'이음길'** [Github](https://github.com/prgmd/ieumgil) `SSAFY · BE`|
+| `2025.03 - 2025.08` | UMC 8기 팀 프로젝트(뉴스 추천 및 구독 프로젝트), **'NewsIntelligent'** [Github](https://github.com/newsIntelligent/Backend) `BE` |
 | `2025.00 - 2025.00` | 금융 상품 추천 서비스 (졸업 프로젝트), **'투자메이트'** [Github](https://github.com/NaughtyComputer/Naughty-BE-Spring) `BE` |
 
 </div>
