@@ -56,7 +56,7 @@
 | `2026.00 - 진행 중` | 2인 실시간 대전 퍼즐 게임, **'사과게임'** [Github](https://github.com/weeast1521/MyAppleGame) `개인`|
 | `2026.07 - 2026.08` | 실시간 협업 여행 일정 플래너, **'이음길'** [Github](https://github.com/prgmd/ieumgil) `SSAFY · BE`|
 | `2025.03 - 2025.08` | UMC 8기 팀 프로젝트(뉴스 추천 및 구독 프로젝트), **'NewsIntelligent'** [Github](https://github.com/newsIntelligent/Backend) `BE` |
-| `2025.00 - 2025.00` | 금융 상품 추천 서비스 (졸업 프로젝트), **'투자메이트'** [Github](https://github.com/NaughtyComputer/Naughty-BE-Spring) `BE` |
+| `2025.02 - 2025.12` | 금융 상품 추천 서비스 (졸업 프로젝트), **'투자메이트'** [Github](https://github.com/NaughtyComputer/Naughty-BE-Spring) `BE` |
 
 </div>
 
