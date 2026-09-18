@@ -67,7 +67,7 @@
 | 수상일 | 수상 내용 |
 |---|---|
 | `2025.08` | 상명 엑스퍼트 공모전 **최우수상** |
-| `2024.11` | 수뭉컵 프로그래밍 경진대회 **출제진 기여 상장** |
+| `2024.11` | 수뭉컵 프로그래밍 경진대회 **출제진 기여 상장** [![중앙일보](https://img.shields.io/badge/중앙일보-기사-C00000?style=flat-square&logo=googlenews&logoColor=white)](https://www.joongang.co.kr/article/25293425) [![한국대학신문](https://img.shields.io/badge/한국대학신문-기사-1A4F9C?style=flat-square&logo=googlenews&logoColor=white)](https://news.unn.net/news/articleView.html?idxno=571274) |
 | `2024.08` | AWS 상명 해커톤 **최우수상** — AI 관상 분석 서비스 '인상Look' |
 
 </div>
@@ -82,4 +82,6 @@
 </table>
 
 - **200일 연속 문제 풀이** (solved.ac 스트릭)
-- **[수뭉컵 2024-2](https://github.com/soomoongcup/soomoongcup-2024-2)** 출제진 — 구간합 · 우선순위 큐 문제 출제
+- **[수뭉컵 2024-2](https://github.com/soomoongcup/soomoongcup-2024-2)** 대회 출제진(구간합 · 우선순위 큐 문제 출제)
+  - 📰 [중앙일보](https://www.joongang.co.kr/article/25293425)
+  - [한국대학신문 — "상명대 융합공과대학, 프로그래밍 경진대회 '수뭉컵' 성료" (2024.11)](https://news.unn.net/news/articleView.html?idxno=571274)
